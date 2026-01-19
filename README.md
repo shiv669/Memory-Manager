@@ -1,0 +1,3 @@
+# i am building an memory manager in c++ 
+
+how to build it i dont know...
